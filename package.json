@@ -1,6 +1,6 @@
 {
   "name": "gcd",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "compute the greatest common divisor using euclid's algorithm",
   "main": "index.js",
   "directories": {
