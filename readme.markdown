@@ -3,6 +3,8 @@
 Compute the greatest common divisor using
 [Euclid's algorithm](https://en.wikipedia.org/wiki/Greatest_common_divisor#Using_Euclid.27s_algorithm).
 
+[![testling badge](https://ci.testling.com/substack/node-gcd.png)](https://ci.testling.com/substack/node-gcd)
+
 [![build status](https://secure.travis-ci.org/substack/node-gcd.png)](http://travis-ci.org/substack/node-gcd)
 
 # example
