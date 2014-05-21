@@ -1,4 +1,4 @@
-var test = require('tap').test;
+var test = require('tape');
 var gcd = require('../');
 
 test('sanity values ripped from wikipedia', function (t) {
